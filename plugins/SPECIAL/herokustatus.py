@@ -12,7 +12,7 @@ from database.users_chats_db import db
 #=====================================================
 BOT_START_TIME = time.time()
 CMD = ['.', '/']
-HRK_API = (os.environ.get("HRK_API", "6e8fad06-0644-412b-845d-197db1e08ec9"))
+HRK_API = (os.environ.get("HRK_API", "3d0abc54-7320-4edc-9fa3-30cc675629bc"))
 #=====================================================
 
 @Client.on_message(filters.private & filters.user(ADMINS) & filters.command("dyno", CMD))         
