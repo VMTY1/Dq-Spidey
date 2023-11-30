@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/CyberTG/AutoFilter",
-    "repository": "https://github.com/CyberTG/AutoFilter",
+    "website": "https://github.com/VMTY1/Dq-Spidey",
+    "repository": "https://github.com/VMTY1/Dq-Spidey",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
